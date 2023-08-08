@@ -19,6 +19,10 @@
   - Scenario: Your local cyber security team is requesting to know what ports are open on DMZ_Server2 to identify services that may be running outside of the permitted services. Permitted services are 22/ssh, 135/msrpc, 3389/ms-wbt-server, and 8080/http-proxy.
        
 <br>
+<p align="center">
+  <img src="topology.png" alt="Network Troubleshooting Topology" width="600"/>
+</p>
+
 
 Review each of the six helpdesk ticket scenarios, then using the Infosec virtual machine (link in the Web Links section), do the following for each ticket:
   - 1.  Provide a clear screenshot(s) with a full view of the screen, including the date and time that shows the problem has been identified and resolved.
@@ -27,4 +31,4 @@ Review each of the six helpdesk ticket scenarios, then using the Infosec virtual
     - b.  Describe your solution to the problem including details of the troubleshooting steps that took place.      
 <br>
 
-See the performance assessment here.
+[See the performance assessment here.](assessment.pdf)
