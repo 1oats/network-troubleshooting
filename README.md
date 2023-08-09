@@ -31,4 +31,4 @@ Review each of the six helpdesk ticket scenarios, then using the Infosec virtual
     - b.  Describe your solution to the problem including details of the troubleshooting steps that took place.      
 <br>
 
-[See the performance assessment here.](assessment.pdf)
+See the [performance assessment here.](assessment.md)
