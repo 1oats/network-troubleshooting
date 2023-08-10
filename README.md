@@ -1,5 +1,16 @@
 # network-troubleshooting
+<br>
 
+In this task, I reviewed six helpdesk ticket scenarios, and used the Infosec virtual machine to provide the following for each ticket:  
+  - 1.  A clear screenshot(s) of the solution  
+  - 2.  A root cause analysis write-up including:   
+    - a.  Identification of the tool used and why it was used to troubleshoot the problem.  
+    - b.  Detailed description of the troubleshooting steps that took place.  
+
+------
+
+<br>
+          
 - Ticket #1
   - Scenario: There are multiple reports of employees located in the USERNet subnet who cannot get to `www.domain.edu`, and they are being redirected to a suspicious site. A help desk technician states that the server team recently installed updates to DMZ_Server_3 which acts as the DNS Server for the organization.
  
@@ -22,13 +33,7 @@
 <p align="center">
   <img src="topology.png" alt="Network Troubleshooting Topology" width="600"/>
 </p>
-
-
-Review each of the six helpdesk ticket scenarios, then using the Infosec virtual machine (link in the Web Links section), do the following for each ticket:
-  - 1.  Provide a clear screenshot(s) with a full view of the screen, including the date and time that shows the problem has been identified and resolved.
-  - 2.  Provide a root cause analysis write-up by doing the following: 
-    - a.  Identify the tool that you used and explain why you chose it to troubleshoot the problem.
-    - b.  Describe your solution to the problem including details of the troubleshooting steps that took place.      
+ 
 <br>
 
 See the [performance assessment here.](assessment.md)
